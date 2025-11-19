@@ -8,7 +8,7 @@ header {
 
   h3 {
     margin: 0px;
-    @include common.fontstyle(1.25rem, 700, 1.75rem);
+    @include common.fontStyle(1.25rem, 700, 1.75rem);
     color: var(--primary-color);
   }
 

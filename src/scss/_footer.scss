@@ -10,6 +10,6 @@ footer {
 
   p {
     color: var(--text-color);
-    @include common.fontstyle(0.875rem, 400, 1.25rem);
+    @include common.fontStyle(0.875rem, 400, 1.25rem);
   }
 }

@@ -4,7 +4,7 @@
   cursor: pointer;
 }
 
-@mixin fontstyle($size, $weight, $lineHeight) {
+@mixin fontStyle($size, $weight, $lineHeight) {
   font-size: $size;
   font-weight: $weight;
   line-height: $lineHeight;
